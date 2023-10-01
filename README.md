@@ -24,8 +24,6 @@ RoadHealth is a platform designed to streamline the process of reporting and tra
 
 - **Backend**: Node.js, Express.js, MongoDB
 
-- **Authentication**: JSON Web Tokens (JWT)
-
 ## How to Use
 
 1. Clone the repository:
